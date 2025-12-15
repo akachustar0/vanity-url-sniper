@@ -1,2 +1,2 @@
 # vanity-url-sniper
-promise.all kullanan tls kod acin actirin kardes 🤣🤣🤣🤣🤣
+promise.all kullanan tls kod acin actirin kardes 🤣🤣🤣🤣🤣 npm i ws  extract-json-string
